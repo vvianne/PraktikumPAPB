@@ -5,5 +5,6 @@ Proyek ini adalah repositori yang berisi seluruh hasil praktikum Pemrograman Apl
 ## 🧑‍🎓 Tentang
 
 | **Nama** | Vincentia Melody Vivianne |
+|------|--------------------------|
 | **NIM** | 235150201111047 |
 | **Kelas** | TIF-B |
